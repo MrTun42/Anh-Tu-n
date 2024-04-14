@@ -1,0 +1,135 @@
+﻿@page
+@model Student_Manager.Pages.Admin.IndexModel
+@{
+    ViewData["Title"] = "Fix Student List";
+}
+<h1>Fix Student List </h1>
+
+<!-- New Student form will go here -->
+<form method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="NewStudent.Name" class="control-label"></label>
+        <input asp-for="NewStudent.Name" class="form-control" />
+        <span asp-validation-for="NewStudent.Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="NewStudent.SBD" class="control-label"></label>
+        <input asp-for="NewStudent.SBD" class="form-control" />
+        <span asp-validation-for="NewStudent.SBD" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="NewStudent.Gender" class="control-label"></label>
+        <input asp-for="NewStudent.Gender" class="form-control" />
+        <span asp-validation-for="NewStudent.Gender" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="NewStudent.DateOfBirth" class="control-label"></label>
+        <input asp-for="NewStudent.DateOfBirth" class="form-control" />
+        <span asp-validation-for="NewStudent.DateOfBirth" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>
+
+
+<!-- List of students will go here -->
+<table class="table mt-5">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">SBD</th>
+            <th scope="col">Gender</th>
+            <th scope="col">Date Of Birth</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model.StudentList)
+        {
+            <tr>
+                <td>@student.Name</td>
+                <td>@student.SBD</td>
+                <td>@student.Gender</td>
+                <td>@student.DateOfBirth</td>
+                <td>
+                    <a asp-page="/Students/Edit" asp-route-itemid="@student.Id" class="btn btn-primary">Edit</a>
+                    <form method="post" asp-page-handler="Delete" asp-route-id="@student.Id">
+                        <button class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@{
+    ViewData["Title"] = "Fix Teacher List";
+}
+<h1>Fix Teacher List </h1>
+
+<!-- New Teacher form will go here -->
+<form method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="NewStudent.Name" class="control-label"></label>
+        <input asp-for="NewStudent.Name" class="form-control" />
+        <span asp-validation-for="NewStudent.Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="NewStudent.SBD" class="control-label"></label>
+        <input asp-for="NewStudent.SBD" class="form-control" />
+        <span asp-validation-for="NewStudent.SBD" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="NewStudent.Gender" class="control-label"></label>
+        <input asp-for="NewStudent.Gender" class="form-control" />
+        <span asp-validation-for="NewStudent.Gender" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="NewStudent.DateOfBirth" class="control-label"></label>
+        <input asp-for="NewStudent.DateOfBirth" class="form-control" />
+        <span asp-validation-for="NewStudent.DateOfBirth" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>
+
+
+<!-- List of teachers will go here -->
+<table class="table mt-5">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">SBD</th>
+            <th scope="col">Gender</th>
+            <th scope="col">Date Of Birth</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var teacher in Model.StudentList)
+        {
+            <tr>
+                <td>@teacher.Name</td>
+                <td>@teacher.SBD</td>
+                <td>@teacher.Gender</td>
+                <td>@teacher.DateOfBirth</td>
+                <td>
+                    <a asp-page="/Teachers/Edit" asp-route-itemid="@teacher.Id" class="btn btn-primary">Edit</a>
+                    <form method="post" asp-page-handler="Delete" asp-route-id="@teacher.Id">
+                        <button class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

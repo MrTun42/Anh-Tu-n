@@ -1,0 +1,62 @@
+S:\Study\Môn 9\Student Manager\Student Manager\bin\Debug\net7.0\appsettings.Development.json
+S:\Study\Môn 9\Student Manager\Student Manager\bin\Debug\net7.0\appsettings.json
+S:\Study\Môn 9\Student Manager\Student Manager\bin\Debug\net7.0\Student Manager.staticwebassets.runtime.json
+S:\Study\Môn 9\Student Manager\Student Manager\bin\Debug\net7.0\Student Manager.exe
+S:\Study\Môn 9\Student Manager\Student Manager\bin\Debug\net7.0\Student Manager.deps.json
+S:\Study\Môn 9\Student Manager\Student Manager\bin\Debug\net7.0\Student Manager.runtimeconfig.json
+S:\Study\Môn 9\Student Manager\Student Manager\bin\Debug\net7.0\Student Manager.dll
+S:\Study\Môn 9\Student Manager\Student Manager\bin\Debug\net7.0\Student Manager.pdb
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.csproj.AssemblyReference.cache
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.GeneratedMSBuildEditorConfig.editorconfig
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.AssemblyInfoInputs.cache
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.AssemblyInfo.cs
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.csproj.CoreCompileInputs.cache
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.MvcApplicationPartsAssemblyInfo.cache
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.RazorAssemblyInfo.cache
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.RazorAssemblyInfo.cs
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\staticwebassets\msbuild.Student Manager.Microsoft.AspNetCore.StaticWebAssets.props
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\staticwebassets\msbuild.build.Student Manager.props
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Student Manager.props
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Student Manager.props
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\staticwebassets.pack.json
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\staticwebassets.build.json
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\staticwebassets.development.json
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\scopedcss\bundle\Student Manager.styles.css
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\scopedcss\projectbundle\Student Manager.bundle.scp.css
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.dll
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\refint\Student Manager.dll
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.pdb
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.genruntimeconfig.cache
+S:\Study\Môn 9\Student Manager\Student Manager\obj\Debug\net7.0\ref\Student Manager.dll
+C:\Users\ACER\Downloads\Student Manager\Student Manager\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ACER\Downloads\Student Manager\Student Manager\bin\Debug\net7.0\appsettings.json
+C:\Users\ACER\Downloads\Student Manager\Student Manager\bin\Debug\net7.0\Student Manager.staticwebassets.runtime.json
+C:\Users\ACER\Downloads\Student Manager\Student Manager\bin\Debug\net7.0\Student Manager.exe
+C:\Users\ACER\Downloads\Student Manager\Student Manager\bin\Debug\net7.0\Student Manager.deps.json
+C:\Users\ACER\Downloads\Student Manager\Student Manager\bin\Debug\net7.0\Student Manager.runtimeconfig.json
+C:\Users\ACER\Downloads\Student Manager\Student Manager\bin\Debug\net7.0\Student Manager.dll
+C:\Users\ACER\Downloads\Student Manager\Student Manager\bin\Debug\net7.0\Student Manager.pdb
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.AssemblyInfo.cs
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.RazorAssemblyInfo.cache
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.RazorAssemblyInfo.cs
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\staticwebassets\msbuild.Student Manager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\staticwebassets\msbuild.build.Student Manager.props
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Student Manager.props
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Student Manager.props
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\scopedcss\bundle\Student Manager.styles.css
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\scopedcss\projectbundle\Student Manager.bundle.scp.css
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.dll
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\refint\Student Manager.dll
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.pdb
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\Student Manager.genruntimeconfig.cache
+C:\Users\ACER\Downloads\Student Manager\Student Manager\obj\Debug\net7.0\ref\Student Manager.dll

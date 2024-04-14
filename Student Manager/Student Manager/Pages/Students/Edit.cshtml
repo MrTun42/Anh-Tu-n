@@ -1,0 +1,41 @@
+﻿@page
+@model Student_Manager.Pages.Students.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+<h3>@ViewData["Title"]</h3>
+<hr />
+<div class="row shadow">
+    <div class="col-md-4">
+        <form method="post">
+            <input type="hidden" asp-for="Students.Id" />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Students.Name" class="control-label"></label>
+                <input asp-for="Students.Name" class="form-control" />
+                <span asp-validation-for="Students.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Students.SBD" class="control-label"></label>
+                <input asp-for="Students.SBD" class="form-control" />
+                <span asp-validation-for="Students.SBD" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Students.Gender" class="control-label"></label>
+                <input asp-for="Students.Gender" class="form-control" />
+                <span asp-validation-for="Students.Gender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Students.DateOfBirth" class="control-label"></label>
+                <input asp-for="Students.DateOfBirth" class="form-control" />
+                <span asp-validation-for="Students.DateOfBirth" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Update" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
